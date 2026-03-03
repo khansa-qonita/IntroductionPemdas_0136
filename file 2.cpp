@@ -19,7 +19,4 @@ int main() { //mulai
     cout << "hasilnya =" << luas << endl;
     cout << "terima kasih";
     //selesai
-
-
-
     }
